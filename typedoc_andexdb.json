@@ -4,13 +4,13 @@
     "navigationLinks": {
         "Add-On Documentation": "https://wiki.8crafter.com/andexdb"
     },
-    "favicon": "favicon.png",
-    "readme": "README.md",
+    "favicon": "favicon_andexdb.png",
+    "readme": "README_andexdb.md",
     "entryPoints": [
         "../Debug Sticks/BP/src/index.ts",
         "../Debug Sticks/BP/src/typeDocGlobalsFixer.ts" /* , "../Debug Sticks/BP/src/Global.ts" */ /* , "../Debug Sticks/BP/src/modules/**" */
     ],
-    "out": "github-pages/andexdb",
+    "out": "docs/andexdb",
     "jsDocCompatibility": true,
     "basePath": "../Debug Sticks/BP/src",
     "tsconfig": "tsconfig_andexdb.json",

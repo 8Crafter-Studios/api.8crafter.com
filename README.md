@@ -1,3 +1,3 @@
-This website is for the API documentation for the add-on [8Crafter's Debug Sticks, Chat Ranks, Custom UI, and JavaScript Commands/Script REPL, and Server Utilities](https://wiki.8crafter.com/andexdb/).
+This repository is for the website [api.8crafter.com](https://api.8crafter.com).
 
-<image src="./coverage.svg" title="Coverage" />
+It contains documentation for APIs for things made by 8Crafter.
