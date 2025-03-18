@@ -25,6 +25,7 @@
         "typedoc-plugin-coverage"/* ,
         "@8hobbies/typedoc-plugin-404" */
     ],
+    "customCss": "style.css",
     "exclude": [
         // "**/node_modules/@minecraft/server/**",
         // "**/node_modules/@minecraft/server-ui/**",
