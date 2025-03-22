@@ -18,12 +18,13 @@
     // "commentStyle": "all",
     "entryPointStrategy": "expand",
     "plugin": [
-        "typedoc-plugin-missing-exports",
-        "typedoc-plugin-not-exported",
+        "typedoc-plugin-missing-exports-8crafter-edition",
+        // "typedoc-plugin-not-exported",
         "typedoc-plugin-8crafter-type-converter",
-        "typedoc-plugin-merge-modules",
+        // "typedoc-plugin-merge-modules",
         "typedoc-plugin-coverage"/* ,
-        "@8hobbies/typedoc-plugin-404" */
+        "@8hobbies/typedoc-plugin-404" */,
+        "@shipgirl/typedoc-plugin-versions"
     ],
     "customCss": "style.css",
     "exclude": [
@@ -108,7 +109,11 @@
         "@todo",
         "@note",
         "@async",
-        "@mutable"
+        "@mutable",
+        "@path",
+        "@generator",
+        "@file",
+        "@description"
     ],
     "externalPattern": [
         // "**/node_modules/[!c]*/**",
@@ -140,7 +145,7 @@
         "**/node_modules/proxy-from-env/**",
         "**/node_modules/typescript/**"
     ],
-    "mergeModulesMergeMode": "module",
+    // "mergeModulesMergeMode": "module",
     "kindSortOrder": [
         "Project",
         "Module",
@@ -224,7 +229,8 @@
         "@protected",
         "@showCategories",
         "@showGroups",
-        "@useDeclaredType"
+        "@useDeclaredType",
+        "@unused"
     ],
     "hostedBaseUrl": "https://api.8crafter.com/andexdb",
     "useHostedBaseUrlForAbsoluteLinks": false,
