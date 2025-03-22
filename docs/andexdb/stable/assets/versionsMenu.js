@@ -18,6 +18,6 @@ select.onchange = () => {
 	if(select.value === thisVersion) return; // Prevents an infinite refresh loop.
 	const newPaths = window.location.pathname.replace(`/${thisVersion}/`, `/${select.value}/`);
 	const newUrl = new URL(newPaths, window.location.origin);
-	conosole.error("REDIRECTED");
+	// console.error("REDIRECTED");
 	window.location.assign(newUrl);
 };

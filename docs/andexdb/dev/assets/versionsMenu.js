@@ -16,7 +16,7 @@ select.value = DOC_VERSIONS.includes(thisVersion)
 	: DOC_VERSIONS[0];
 select.onchange = () => {
 	if(select.value === thisVersion) return; // Prevents an infinite refresh loop.
-	alert(`Redirecting from ${thisVersion} to ${select.value}`);
+	// alert(`Redirecting from ${thisVersion} to ${select.value}`);
 	const newPaths = window.location.pathname.replace(`/${thisVersion}/`, `/${select.value}/`);
 	const newUrl = new URL(newPaths, window.location.origin);
 	window.location.assign(newUrl);
