@@ -131,6 +131,8 @@
         "**/node_modules/@minecraft/server-gametest/**",
         "**/node_modules/@minecraft/server-admin/**",
         "**/node_modules/@minecraft/server-net/**",
+        "**/node_modules/@minecraft/debug-utilities/**",
+        "**/node_modules/@minecraft/common/**",
         "**/node_modules/.bin/**",
         "**/node_modules/@esbuild/**",
         "**/node_modules/asynckit/**",
