@@ -24,7 +24,8 @@
         // "typedoc-plugin-merge-modules",
         "typedoc-plugin-coverage"/* ,
         "@8hobbies/typedoc-plugin-404" */,
-        "@shipgirl/typedoc-plugin-versions"
+        "@shipgirl/typedoc-plugin-versions",
+        "typedoc-plugin-inline-sources"
     ],
     "customCss": "style.css",
     "exclude": [

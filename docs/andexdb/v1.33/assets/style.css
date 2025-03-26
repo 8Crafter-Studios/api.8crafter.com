@@ -235,7 +235,6 @@
 
     html {
         color-scheme: var(--color-scheme);
-        overflow-wrap: break-word;
     }
 
     body {
