@@ -1,6 +1,6 @@
 {
     "$schema": "https://typedoc.org/schema.json",
-    "name": "8Crafter's Debug Sticks API Documentation",
+    "name": "8Crafter's Debug Sticks API",
     "navigationLinks": {
         "Add-On Documentation": "https://wiki.8crafter.com/andexdb"
     },
