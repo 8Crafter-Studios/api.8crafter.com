@@ -925,14 +925,33 @@
     .tsd-nested-navigation {
         margin-left: 3rem;
     }
+    .tsd-nested-navigation > li:has(details) {
+        overflow: visible;
+    }
     .tsd-nested-navigation > li > details {
         margin-left: -1.5rem;
+        width: calc(100% + 1.5rem);max-width: calc(100% + 1.5rem);
+    }
+    .tsd-nested-navigation > li span > .tsd-kind-icon ~ span,
+    .tsd-nested-navigation > li a > .tsd-kind-icon ~ span {
+        min-width: 100px;
+        max-width: calc(100% - 20px);
     }
     .tsd-small-nested-navigation {
         margin-left: 1.5rem;
     }
+    .tsd-small-nested-navigation > li:has(details) {
+        overflow: visible;
+    }
     .tsd-small-nested-navigation > li > details {
         margin-left: -1.5rem;
+        width: calc(100% + 1.5rem);
+        max-width: calc(100% + 1.5rem);
+    }
+    .tsd-small-nested-navigation > li span > .tsd-kind-icon ~ span,
+    .tsd-small-nested-navigation > li a > .tsd-kind-icon ~ span {
+        min-width: 100px;
+        max-width: calc(100% - 20px);
     }
 
     .tsd-page-navigation-section {
@@ -1092,6 +1111,8 @@
         border: 0;
         background: transparent;
         color: var(--color-text);
+        height: 100%;
+        vertical-align: bottom;
     }
     #tsd-search .field label {
         position: absolute;
@@ -1100,6 +1121,7 @@
     }
     #tsd-search .field input,
     #tsd-search .title,
+    #tsd-toolbar-links div,
     #tsd-toolbar-links a {
         transition: opacity 0.2s;
     }
@@ -1149,6 +1171,7 @@
         opacity: 1;
     }
     #tsd-search.has-focus .title,
+    #tsd-search.has-focus #tsd-toolbar-links div,
     #tsd-search.has-focus #tsd-toolbar-links a {
         z-index: 0;
         opacity: 0;
@@ -1494,6 +1517,11 @@
             visibility: hidden;
             background-color: var(--color-background);
             transform: translate(100%, 0);
+        }
+        html .col-sidebar > .site-menu {
+            width: calc(100% + 2rem);
+            max-width: calc(100% + 2rem);
+            margin-right: -2rem;
         }
         html .col-sidebar > *:last-child {
             padding-bottom: 20px;
