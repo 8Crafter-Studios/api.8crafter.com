@@ -62,10 +62,10 @@
     "excludeInternal": false,
     "excludeTags": ["@override", "@virtual", "@privateRemarks", "@satisfies", "@overload", "@inline"],
     "visibilityFilters": {
-        "protected": false,
-        "private": false,
+        "protected": true,
+        "private": true,
         "inherited": true,
-        "external": false
+        "external": true
     },
     "blockTags": [
         "@defaultValue",
