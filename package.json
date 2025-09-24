@@ -6,12 +6,17 @@
   },
   "scripts": {
     "document:andexdb": "npx typedoc --options typedoc_andexdb.json",
-    "document:andexdb_preview": "npx typedoc --options typedoc_andexdb_preview.json"
+    "document:andexdb_preview": "npx typedoc --options typedoc_andexdb_preview.json",
+    "document:mcbe-leveldb": "npx typedoc --options typedoc_mcbe-leveldb.json",
+    "start": "node index.js",
+    "generate-sitemap": "node sitemap_generator.js"
   },
   "dependencies": {
     "@8hobbies/typedoc-plugin-404": "^3.1.0",
     "@shipgirl/typedoc-plugin-versions": "^0.3.0-8crafters-modification.1",
+    "express": "^5.1.0",
     "prettier": "^3.5.3",
+    "sitemap-generator": "^8.5.1",
     "typedoc-plugin-8crafter-type-converter": "^1.0.0-beta.76",
     "typedoc-plugin-coverage": "^3.4.1",
     "typedoc-plugin-merge-modules": "^6.1.0",

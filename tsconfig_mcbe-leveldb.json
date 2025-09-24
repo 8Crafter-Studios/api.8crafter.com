@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "baseUrl": "../MCBE LevelDB/",
+        "rootDir": "../MCBE LevelDB/",
+        "outDir": "../MCBE LevelDB/",
+        "declaration": false,
+        "sourceMap": false,
+        "declarationMap": false,
+        "lib": ["ESNext"],
+        "allowSyntheticDefaultImports": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "noUncheckedIndexedAccess": true,
+        "resolveJsonModule": true,
+        "verbatimModuleSyntax": true,
+        "allowImportingTsExtensions": true,
+        "noEmit": true,
+        "noFallthroughCasesInSwitch": true,
+        "skipLibCheck": true
+    },
+    "files": ["../MCBE LevelDB/index.ts"]
+}

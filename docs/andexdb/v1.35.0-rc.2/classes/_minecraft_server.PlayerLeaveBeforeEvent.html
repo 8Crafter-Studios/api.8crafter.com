@@ -10,7 +10,7 @@ world.</p>
     function addExtraOptions() {
         const elem1 = document.createElement("div");
         elem1.classList.add("tsd-theme-toggle");
-        elem1.innerHTML = "<label class=\"settings-label\" for=\"tsd-theme\" style=\"display: inline; position: unset\">API for: </label\n><select id=\"tsd-directory\" title=\"The Current API Documentation\" onchange=\"switch(this.value){\n    case 'home': window.open('../index.html', '_self'); break;\n    case 'andexdb': window.open('../andexdb/stable/index.html', '_self'); break;\n}\">\n    <option value=\"home\">Home</option>\n    <option value=\"andexdb\">andexdb</option>\n</select>";
+        elem1.innerHTML = "<label class=\"settings-label\" for=\"tsd-theme\" style=\"display: inline; position: unset\">API for: </label\n><select id=\"tsd-directory\" title=\"The Current API Documentation\" onchange=\"switch(this.value){\n    case 'home': window.open('/', '_self'); break;\n    case 'andexdb': window.open('/andexdb', '_self'); break;\n    case 'mcbe-leveldb': window.open('/mcbe-leveldb', '_self'); break;\n}\">\n    <option value=\"home\">Home</option>\n    <option value=\"andexdb\">andexdb</option>\n    <option value=\"mcbe-leveldb\">mcbe-leveldb</option>\n</select>";
         const elem1_select = elem1.getElementsByTagName("select")[0];
         elem1_select.value = "andexdb"; 
         const elem2 = elem1.cloneNode(true);

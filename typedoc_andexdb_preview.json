@@ -235,7 +235,7 @@
         "@useDeclaredType",
         "@unused"
     ],
-    "hostedBaseUrl": "https://api.8crafter.com/andexdb",
+    "hostedBaseUrl": "https://docs.api.8crafter.com/andexdb",
     "useHostedBaseUrlForAbsoluteLinks": false,
     "currentAPIDocDirectory": "andexdb"
 }

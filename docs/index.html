@@ -44,12 +44,14 @@
                             id="tsd-directory-toolbar"
                             title="The Current API Documentation"
                             onchange="switch(this.value){
-                            case 'home': window.open('./index.html', '_self'); break;
-                            case 'andexdb': window.open('./andexdb/stable/index.html', '_self'); break;
+                            case 'home': window.open('/html', '_self'); break;
+                            case 'andexdb': window.open('/andexdb', '_self'); break;
+                            case 'mcbe-leveldb': window.open('/mcbe-leveldb', '_self'); break;
                         }"
                         >
                             <option value="home" selected>Home</option>
                             <option value="andexdb">andexdb</option>
+                            <option value="mcbe-leveldb">mcbe-leveldb</option>
                         </select>
                     </div>
                 </div>
