@@ -18,7 +18,7 @@
     "prettier": "^3.5.3",
     "sitemap-generator": "^8.5.1",
     "typedoc-plugin-8crafter-type-converter": "^1.0.0-beta.76",
-    "typedoc-plugin-coverage": "^3.4.1",
+    "typedoc-plugin-coverage": "3.4.1-8crafters-modification.1",
     "typedoc-plugin-merge-modules": "^6.1.0",
     "typedoc-plugin-missing-exports-8crafter-edition": "^3.1.0-8crafters-modification.1"
   }

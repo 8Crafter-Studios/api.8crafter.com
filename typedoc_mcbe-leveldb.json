@@ -228,5 +228,6 @@
     "currentAPIDocDirectory": "mcbe-leveldb",
     "versions": {
         "packageFile": "../MCBE LevelDB/package.json"
-    }
+    },
+    "coverageRefIgnoreFunctionFile": "mcbeLeveldbConverageFilter.js"
 }
