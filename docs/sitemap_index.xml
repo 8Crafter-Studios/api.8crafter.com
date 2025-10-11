@@ -80,4 +80,52 @@
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.2.1/sitemap.xml</loc>
         <lastmod>2025-09-25T19:59:33.197Z</lastmod>
     </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.2.2/sitemap.xml</loc>
+        <lastmod>2025-10-11T17:59:19.271Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.2.3/sitemap.xml</loc>
+        <lastmod>2025-10-11T17:59:46.238Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.2.4/sitemap.xml</loc>
+        <lastmod>2025-10-11T17:59:58.097Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.3.0/sitemap.xml</loc>
+        <lastmod>2025-10-11T18:00:33.851Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.3.1/sitemap.xml</loc>
+        <lastmod>2025-10-11T18:00:44.907Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.3.2/sitemap.xml</loc>
+        <lastmod>2025-10-11T18:00:56.239Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.3.3/sitemap.xml</loc>
+        <lastmod>2025-10-11T18:01:05.778Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.3.4/sitemap.xml</loc>
+        <lastmod>2025-10-11T18:01:15.837Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.4.0/sitemap.xml</loc>
+        <lastmod>2025-10-11T18:24:55.239Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.5.0/sitemap.xml</loc>
+        <lastmod>2025-10-11T18:31:46.866Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.5.1/sitemap.xml</loc>
+        <lastmod>2025-10-11T18:33:36.144Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.5.2/sitemap.xml</loc>
+        <lastmod>2025-10-11T18:33:59.802Z</lastmod>
+    </sitemap>
 </sitemapindex>

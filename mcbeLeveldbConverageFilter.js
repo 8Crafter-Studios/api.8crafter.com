@@ -22,7 +22,8 @@ export function shouldIgnore(ref) {
             ref.getFullName().startsWith("NBTSchemas.GenericPrismarineJSONNBTSchema.") ||
             ref.getFullName().startsWith("BiomeData.") ||
             // ref.getFullName().startsWith("entryContentTypeToFormatMap.") ||
-            /^entryContentTypeToFormatMap\.__type\.([^\.]+\.__type\.)+(type|bytes|format|signed)$/.test(ref.getFullName())
+            /^entryContentTypeToFormatMap\.__type\.([^\.]+\.__type\.)+(type|bytes|format|signed)$/.test(ref.getFullName()) ||
+            /^entryContentTypeToFormatMap\.__type\.[^\.]+\.__type\.([^\.]+\.)\1__type\./.test(ref.getFullName())
         ) {
             return true;
         }

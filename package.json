@@ -1,4 +1,5 @@
 {
+    "type": "module",
     "devDependencies": {
         "@types/sitemap-generator": "^8.5.5",
         "typedoc": "^0.27.9",
@@ -6,9 +7,9 @@
         "typedoc-plugin-not-exported": "^0.1.6"
     },
     "scripts": {
-        "document:andexdb": "npx typedoc --options typedoc_andexdb.json",
-        "document:andexdb_preview": "npx typedoc --options typedoc_andexdb_preview.json",
-        "document:mcbe-leveldb": "npx typedoc --options typedoc_mcbe-leveldb.json",
+        "document:andexdb": "npx typedoc --options typedoc_andexdb.json --logLevel Verbose",
+        "document:andexdb_preview": "npx typedoc --options typedoc_andexdb_preview.json --logLevel Verbose",
+        "document:mcbe-leveldb": "npx typedoc --options typedoc_mcbe-leveldb.json --logLevel Verbose",
         "start": "node localServer.js",
         "generate-main-sitemap": "node generateMainSitemap.ts",
         "generate-sitemap-index": "node generateSitemapIndex.ts",
