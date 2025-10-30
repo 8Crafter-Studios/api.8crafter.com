@@ -237,5 +237,12 @@
     ],
     "hostedBaseUrl": "https://docs.api.8crafter.com/andexdb",
     "useHostedBaseUrlForAbsoluteLinks": false,
-    "currentAPIDocDirectory": "andexdb"
+    "currentAPIDocDirectory": "andexdb",
+    "versions": {
+        "stable": "auto",
+        "dev": "auto",
+        "domLocation": "false",
+        "packageFile": "../Debug Sticks/BP Preview/package.json",
+        "makeRelativeLinks": false
+    }
 }

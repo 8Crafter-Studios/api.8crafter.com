@@ -2,130 +2,154 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <sitemap>
         <loc>https://docs.api.8crafter.com/sitemap.xml</loc>
-        <lastmod>2025-09-25T20:51:29.733Z</lastmod>
+        <lastmod>2025-10-30T00:15:10.985Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.33.0/sitemap.xml</loc>
-        <lastmod>2025-09-24T18:16:54.997Z</lastmod>
+        <lastmod>2025-10-11T18:53:02.049Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.33.1/sitemap.xml</loc>
-        <lastmod>2025-09-24T18:17:04.549Z</lastmod>
+        <lastmod>2025-10-11T18:53:02.964Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.33.1-preview.20/sitemap.xml</loc>
-        <lastmod>2025-09-24T18:17:09.561Z</lastmod>
+        <lastmod>2025-10-11T18:53:03.941Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.34.0/sitemap.xml</loc>
-        <lastmod>2025-09-24T18:17:16.499Z</lastmod>
+        <lastmod>2025-10-11T18:53:04.993Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.35.0/sitemap.xml</loc>
-        <lastmod>2025-09-24T18:17:26.264Z</lastmod>
+        <lastmod>2025-10-11T18:53:06.025Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.35.0-preview.20/sitemap.xml</loc>
-        <lastmod>2025-09-24T18:17:36.699Z</lastmod>
+        <lastmod>2025-10-11T18:53:07.026Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.35.0-rc.1/sitemap.xml</loc>
-        <lastmod>2025-09-24T18:17:47.337Z</lastmod>
+        <lastmod>2025-10-11T18:53:08.007Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.35.0-rc.2/sitemap.xml</loc>
-        <lastmod>2025-09-24T18:17:57.389Z</lastmod>
+        <lastmod>2025-10-11T18:53:09.055Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.36.0/sitemap.xml</loc>
-        <lastmod>2025-09-24T18:18:07.543Z</lastmod>
+        <lastmod>2025-10-11T18:53:10.097Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.36.3/sitemap.xml</loc>
-        <lastmod>2025-09-24T18:18:15.934Z</lastmod>
+        <lastmod>2025-10-11T18:53:11.227Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.37.0/sitemap.xml</loc>
-        <lastmod>2025-09-24T18:18:23.776Z</lastmod>
+        <lastmod>2025-10-11T18:53:12.296Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.37.0-preview.20/sitemap.xml</loc>
-        <lastmod>2025-09-24T18:18:31.350Z</lastmod>
+        <lastmod>2025-10-11T18:53:13.294Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.37.1/sitemap.xml</loc>
-        <lastmod>2025-09-25T20:33:09.408Z</lastmod>
+        <lastmod>2025-10-11T18:53:14.311Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/andexdb/v1.38.0/sitemap.xml</loc>
-        <lastmod>2025-09-24T18:18:46.300Z</lastmod>
+        <lastmod>2025-10-11T18:53:15.321Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/andexdb/v1.39.0/sitemap.xml</loc>
+        <lastmod>2025-10-29T23:53:08.260Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/andexdb/v1.40.0/sitemap.xml</loc>
+        <lastmod>2025-10-29T23:54:48.011Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/andexdb/v1.40.1/sitemap.xml</loc>
+        <lastmod>2025-10-29T23:56:29.736Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/andexdb/v1.40.2/sitemap.xml</loc>
+        <lastmod>2025-10-29T23:57:31.124Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/andexdb/v1.40.3/sitemap.xml</loc>
+        <lastmod>2025-10-29T23:58:47.346Z</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://docs.api.8crafter.com/andexdb/v1.41.0/sitemap.xml</loc>
+        <lastmod>2025-10-30T00:14:01.586Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.0.0/sitemap.xml</loc>
-        <lastmod>2025-09-25T20:00:34.629Z</lastmod>
+        <lastmod>2025-10-11T18:53:16.422Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.0.1/sitemap.xml</loc>
-        <lastmod>2025-09-25T20:01:08.200Z</lastmod>
+        <lastmod>2025-10-11T18:53:16.537Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.1.0/sitemap.xml</loc>
-        <lastmod>2025-09-25T20:01:19.652Z</lastmod>
+        <lastmod>2025-10-11T18:53:16.684Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.2.0/sitemap.xml</loc>
-        <lastmod>2025-09-25T20:01:51.742Z</lastmod>
+        <lastmod>2025-10-11T18:53:16.807Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.2.1/sitemap.xml</loc>
-        <lastmod>2025-09-25T19:59:33.197Z</lastmod>
+        <lastmod>2025-10-11T18:53:16.936Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.2.2/sitemap.xml</loc>
-        <lastmod>2025-10-11T17:59:19.271Z</lastmod>
+        <lastmod>2025-10-11T18:53:17.079Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.2.3/sitemap.xml</loc>
-        <lastmod>2025-10-11T17:59:46.238Z</lastmod>
+        <lastmod>2025-10-11T18:53:17.216Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.2.4/sitemap.xml</loc>
-        <lastmod>2025-10-11T17:59:58.097Z</lastmod>
+        <lastmod>2025-10-11T18:53:17.347Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.3.0/sitemap.xml</loc>
-        <lastmod>2025-10-11T18:00:33.851Z</lastmod>
+        <lastmod>2025-10-11T18:53:17.486Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.3.1/sitemap.xml</loc>
-        <lastmod>2025-10-11T18:00:44.907Z</lastmod>
+        <lastmod>2025-10-11T18:53:17.609Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.3.2/sitemap.xml</loc>
-        <lastmod>2025-10-11T18:00:56.239Z</lastmod>
+        <lastmod>2025-10-11T18:53:17.748Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.3.3/sitemap.xml</loc>
-        <lastmod>2025-10-11T18:01:05.778Z</lastmod>
+        <lastmod>2025-10-11T18:53:17.866Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.3.4/sitemap.xml</loc>
-        <lastmod>2025-10-11T18:01:15.837Z</lastmod>
+        <lastmod>2025-10-11T18:53:17.996Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.4.0/sitemap.xml</loc>
-        <lastmod>2025-10-11T18:24:55.239Z</lastmod>
+        <lastmod>2025-10-11T18:53:18.127Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.5.0/sitemap.xml</loc>
-        <lastmod>2025-10-11T18:31:46.866Z</lastmod>
+        <lastmod>2025-10-11T18:53:18.246Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.5.1/sitemap.xml</loc>
-        <lastmod>2025-10-11T18:33:36.144Z</lastmod>
+        <lastmod>2025-10-11T18:53:18.408Z</lastmod>
     </sitemap>
     <sitemap>
         <loc>https://docs.api.8crafter.com/mcbe-leveldb/v1.5.2/sitemap.xml</loc>
-        <lastmod>2025-10-11T18:33:59.802Z</lastmod>
+        <lastmod>2025-10-11T18:53:18.562Z</lastmod>
     </sitemap>
 </sitemapindex>

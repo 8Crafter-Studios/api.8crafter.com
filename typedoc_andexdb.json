@@ -242,7 +242,7 @@
         "stable": "auto",
         "dev": "auto",
         "domLocation": "false",
-        "packageFile": "../MCBE LevelDB/package.json",
+        "packageFile": "../Debug Sticks/BP/package.json",
         "makeRelativeLinks": false
     }
 }

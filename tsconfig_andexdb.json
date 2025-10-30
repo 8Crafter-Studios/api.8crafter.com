@@ -9,16 +9,15 @@
     "rootDir": "../Debug Sticks/BP/src",
     "outDir": "../Debug Sticks/BP/scripts",
     "paths": {
-      "@minecraft/math.js": ["../node_modules/@minecraft/math"],
-      "@minecraft/vanilla-data.js": ["../node_modules/@minecraft/vanilla-data"]/*,
-      "semver": ["C:/Users/ander/github/Debug Sticks/BP/node_modules/semver/index.d.ts"]*/
+      "@minecraft/server-editor-bindings": ["./server-editor-bindings@0.1.0-beta"],
+      "@minecraft/server-editor-private-bindings": ["./server-editor-private-bindings@0.1.0-internal"]
     },
     "allowJs": true,
-    "declaration": true,/*
-    "declarationMap": true,*/
+    "declaration": true,
+    // "declarationMap": true,
     "declarationDir": "../Debug Sticks/BP/scripts",
-    "verbatimModuleSyntax": true/*, 
-    "resolveJsonModule": true*/,
+    "verbatimModuleSyntax": true,
+    // "resolveJsonModule": true,
     "sourceMap": true,
     "noFallthroughCasesInSwitch": true,
     "strictBindCallApply": true,
@@ -36,10 +35,7 @@
     "noUncheckedIndexedAccess": true,
     // "diagnostics": true,
     "skipLibCheck": true,
-    "pretty": true,
-    "jsx": "react",
-    "jsxFactory": "JSX.createElement",
-    "jsxFragmentFactory": "JSX.Fragment"
+    "pretty": true
   },
   "exclude": [
     "**/node_modules/@minecraft/server/**",

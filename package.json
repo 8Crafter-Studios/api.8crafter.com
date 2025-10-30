@@ -18,6 +18,7 @@
     "dependencies": {
         "@8hobbies/typedoc-plugin-404": "^3.1.0",
         "@shipgirl/typedoc-plugin-versions": "^0.3.0-8crafters-modification.1",
+        "@types/node": "^24.9.2",
         "express": "^5.1.0",
         "prettier": "^3.5.3",
         "sitemap-generator": "^8.5.1",
@@ -27,4 +28,3 @@
         "typedoc-plugin-missing-exports-8crafter-edition": "^3.1.0-8crafters-modification.1"
     }
 }
-
